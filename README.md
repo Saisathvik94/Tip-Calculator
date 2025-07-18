@@ -1,4 +1,3 @@
-```
 # 💰 Tip Calculator
 
 A simple and responsive **Tip Calculator** built using **HTML, CSS, and JavaScript**. Users can quickly calculate the tip and split the bill between people with a clean and intuitive UI.
@@ -32,13 +31,12 @@ A simple and responsive **Tip Calculator** built using **HTML, CSS, and JavaScri
     cd tip-calculator
     open index.html
 📁 Project Structure
+```
   tip-calculator/
   ├── index.html
   ├── style.css
   └── script.js
-  
+  ```
 🙋‍♂️ Author
-  Sai Sathvik
-  GitHub: https://github.com/Saisathvik94
-```
+  Sai Sathvik | GitHub: https://github.com/Saisathvik94
 
